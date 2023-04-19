@@ -1,3 +1,5 @@
 # elixir-tools
 
+[![Discord](https://img.shields.io/badge/Discord-5865F3?style=flat&logo=discord&logoColor=white&link=https://discord.gg/nNDMwTJ8)](https://discord.gg/6XdGnxVA2A)
+
 elixir-tools is a suite of developor tooling and packages for Elixir developers.
